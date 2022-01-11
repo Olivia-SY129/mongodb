@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "commonJS",
+    "lib": ["es2020"]
+  },
+  "include": ["stream/src/**/*"],
+  "exclude": ["node_modules"]
+}
